@@ -1,13 +1,30 @@
 {
     "users": [
-  
+  {
+    
+  }
     ],
 
     "songs": [
 
+      {
+        "id":1,
+        "name":"",
+        "songurl":"",
+        "song_poster_url":"",
+        "Artist":"",
+        "Duration":"",
+        "Language":"",
+        "Category":""
+
+
+      }
+
     ],
     "playlist": [
+{
 
+}
     ]
   }
   
