@@ -10,7 +10,16 @@
     ],
 
     "songs": [
-
+      {
+        "name": "Nadiyo Par",
+        "songurl": "https://sendeyo.com/updownload/file/script/a174f85808b7163ab2c4b05200076f0f.mp4",
+        "songposterurl": "https://imgs.search.brave.com/8HlctQhUER8LdpDBynED9IKizU6CjcDsMY3luOwtgeY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9seXJp/Y3NyYWFnLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/My9uYWRpeW9uLXBh/YXItc2FqYW4tZGEt/dGhhYW5hLWx5cmlj/cy1tZWFuaW5nLUVu/Z2xpc2guanBn",
+        "artist": "Janvi Kapoor",
+        "Duration": "2 min 42 sec",
+        "language": "Hindi",
+        "category": "item",
+        "id": 1
+      }
     
 
     ],
