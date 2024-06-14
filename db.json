@@ -9,19 +9,110 @@
       }
     ],
 
-    "songs": [
+    "songs":
+    
+
+    [
       {
         "name": "Nadiyo Par",
-        "songurl": "https://sendeyo.com/updownload/file/script/a174f85808b7163ab2c4b05200076f0f.mp4",
+        "songUrl": "https://sendeyo.com/updownload/file/script/a174f85808b7163ab2c4b05200076f0f.mp4",
         "songposterurl": "https://imgs.search.brave.com/8HlctQhUER8LdpDBynED9IKizU6CjcDsMY3luOwtgeY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9seXJp/Y3NyYWFnLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/My9uYWRpeW9uLXBh/YXItc2FqYW4tZGEt/dGhhYW5hLWx5cmlj/cy1tZWFuaW5nLUVu/Z2xpc2guanBn",
         "artist": "Janvi Kapoor",
         "Duration": "2 min 42 sec",
         "language": "Hindi",
-        "category": "item",
+        "category": "Sad",
         "id": 1
+      },
+      {
+        "name": "Jawani Jaaneman",
+        "songUrl": "https://cdn.gro.care/755d5af44c54_1683463531570.mp4",
+        "songposterurl": "https://imgs.search.brave.com/_Ka0VaEAfLHA-f2qqPRp_mMLw9jZ4eaAHO_tiWP1jTg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1XTmhNbVEy/TnpJdFl6ZGlNUzAw/TnpZM0xXSXhOMkl0/TnpRd00ySXpPVEEz/WkRCbVhrRXlYa0Zx/Y0dkZVFYVnlPREU1/TnpFM09URUAuanBn",
+        "artist": "Asha Bhosle",
+        "Duration": "18 s",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 2
+      },
+      {
+        "name": "Fifty Fifty",
+        "songUrl": "https://cdn.gro.care/3186578a3875_1683797695812.mp4",
+        "songposterurl": "https://imgs.search.brave.com/fUg0aQGlvzgLJ8cANJ_IXOseoiQizG8bhxsyZq24kqw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLTAwMDU2/OTgxMDQ2NS0yN2ps/OWItdDUwMHg1MDAu/anBn",
+        "artist": "Shasha",
+        "Duration": "11 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 3
+      },
+      {
+        "name": "Ye Kia Sitam Hua",
+        "songUrl": "https://cdn.gro.care/f2995d1631ae_1683531568180.mp4",
+        "songposterurl": "https://imgs.search.brave.com/tvNBOMsa2MAcIfx-cwPujD5DlWrDd99ielIasngMjrg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnNj/ZG4uY28vaW1hZ2Uv/YWI2NzYxNmQwMDAw/MWUwMjVmNzRkMDBk/ZDgzNzhjZDQ0MmFi/ODQ5ZA",
+        "artist": "Asha Bhosle",
+        "Duration": "26 s",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 4
+      },
+      {
+        "name": "Muskaan Jhoothi Hai",
+        "songUrl": "https://cdn.gro.care/edfdce5bbf61_1684049850831.mp4",
+        "songposterurl": "https://imgs.search.brave.com/oLULzI1i7-Y2bpZn0kiDDMUTqammdg9NN9RwYun_iD4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jLnNh/YXZuY2RuLmNvbS8z/NzkvVGFsYWFzaC1I/aW5kaS0yMDEyLTIw/MjIxMjEzMDM1NzM1/LTUwMHg1MDAuanBn",
+        "artist": "Suman Sirdhar",
+        "Duration": "9 sec",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 5
+      },
+      {
+        "name": "Kajra Mohabbat Wala",
+        "songUrl": "https://cdn.gro.care/7f7eb3b550dd_1683814866642.mp4",
+        "songposterurl": "https://imgs.search.brave.com/ekA7G2IGlbqojC-xfE9k_w3hAvRvH6wTfWzOTgNMPIA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMTk5/NTM5OS5qcGc",
+        "artist": "Shreya Ghoshal",
+        "Duration": "25 sec",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 6
+      },
+      {
+        "name": "I Am Feeling Lonely",
+        "songUrl": "https://cdn.gro.care/01b4e964f11c_1683525057732.mp4",
+        "songposterurl": "https://imgs.search.brave.com/JttbooImi3ueXOpmU3PmdPHR8HqrBVteKd7ljHJe68I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nbGFtb3VyLmNv/bS9waG90b3MvNjY0/YTBkYTQ1ZThjNTA3/MDVlNjU0YjJkLzE6/MS9wYXNzL3VuZGVm/aW5lZA",
+        "artist": "Salena Gomez",
+        "Duration": "14 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 7
+      },
+      {
+        "name": "Tujhe Chand k Bhane Dekhoon",
+        "songUrl": "https://cdn.gro.care/045e95f617aa_1683612715343.mp4",
+        "songposterurl": "https://imgs.search.brave.com/d8E6YjNDp8Ai0a3Nk0CaF2EzjB3ZuMJYUk-5MTXF22k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9scS5k/ampvaGFsLmNvbS9j/b3ZlcnMvNjkwODEv/S2FqcmElMjBBbmQl/MjBVZGVuJTIwSmFi/JTIwSmFiJTIwTWFz/aHVwLmpwZw",
+        "artist": "Shasha",
+        "Duration": "24 s",
+        "language": "Hindi",
+        "category": "Classic",
+        "id": 8
+      },
+      {
+        "name": "Muskan Jhoothi hain Slow",
+        "songUrl": "https://cdn.gro.care/25535f3735ac_1683610022644.mp4",
+        "songposterurl": "https://imgs.search.brave.com/s3uBCmqZCfL8v2xvH9noZyGtrFSiWuqs6kBhUZSei7Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbHlyaWNz/Z2VtLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMS8xMS9N/dXNrYWFuZWluLUpo/b290aS1IYWktTHly/aWNzLmpwZz9maXQ9/MTMwMCw4MDAmc3Ns/PTE",
+        "artist": "Neeti Mohan",
+        "Duration": "14 s",
+        "language": "Hindi",
+        "category": "Sad",
+        "id": 9
+      },
+      {
+        "name": "Barai k Bazaar",
+        "songUrl": "https://cdn.gro.care/12f5243a35bd_1683383740208.mp4",
+        "songposterurl": "https://imgs.search.brave.com/FxpqHRxB9-Uwd7-wM0-K1zc7ovdF505hJ1iLmICJUaY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9seXJp/Y3NyYWFnLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/Ny93aGF0LUpodW1r/YS1HaXJhLVJlLUJh/cmVsaS1LZS1CYXph/YXItTWVpbi1OZXct/VmVyc2lvbi1seXJp/Y3MtZW5nbGlzaC5q/cGc",
+        "artist": "Neeti Mohan",
+        "Duration": "14 s",
+        "language": "Hindi",
+        "category": "Classic",
+        "id": 10
       }
-    
-
     ],
     "playlist": [
 
