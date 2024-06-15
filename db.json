@@ -112,6 +112,325 @@
         "language": "Hindi",
         "category": "Classic",
         "id": 10
+      },
+      
+      {
+        "name": "Hold me",
+        "songUrl": "https://cdn.gro.care/83867e68c231_1683358560704.mp4",
+        "songposterurl": "https://imgs.search.brave.com/PW1w94GF0SVAnEGAacrI3qKJg0D24ha77Y_C-fbGBFM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzkzL1N0YXJzX0Rh/bmNlX1RvdXIsX05v/cndheV8xMC5qcGc",
+        "artist": "Salena Gomez",
+        "Duration": "58 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 11
+      }
+,
+      {
+        "name": "Shringar ",
+        "songUrl": "https://cdn.gro.care/2dc62ba73aaf_1683610079533.mp4",
+        "songposterurl": "https://imgs.search.brave.com/3dPhxwNlgPt28QV6iyS5ainSIY0UAdy7Q4Sw6-q35gg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9tdXNpY2FsLWV4/cGxvc2lvbi1haS1n/ZW5lcmF0ZWQtZGVz/aWduLXdpdGgtbXVz/aWNhbC1leHBsb3Np/b24tbW9sZWN1bGVz/LWZpcmUtZ2xpdHRl/cl83MDAyMjYtMjIw/Mi5qcGc_c2l6ZT02/MjYmZXh0PWpwZw",
+        "artist": "Shreya Ghoshal",
+        "Duration": "15 s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 12
+      },
+
+      {
+        "name": "baraily new version ",
+        "songUrl": "https://cdn.gro.care/2dc62ba73aaf_1683610079533.mp4",
+        "songposterurl": "https://imgs.search.brave.com/Ygc3S_Y7SwNmxLq4Xk1lt7kUT_KVeWgdnxzvES92qdE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQ5LzQz/Lzg2LzQ5NDM4NjVj/N2JjNmQwZDVjZDU5/OTU1NjEyZDkwMzYy/LmpwZw",
+        "artist": "Jubin Nautiyal",
+        "Duration": "23 s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 13
+      }
+      ,
+
+      {
+        "name": "Dil jawan ",
+        "songUrl": "https://cdn.gro.care/2789075caf2a_1683648946328.mp4",
+        "songposterurl": "https://imgs.search.brave.com/EJ4n56EKTW9YoKXUPFqi9ZlZEVrfc75m6_p775NLGlk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE0/OTk0MTU0NzkxMjQt/NDNjMzI0MzNhNjIw/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4TVRGOGZH/MTFjMmxqZkdWdWZE/QjhmREI4Zkh3dw.jpeg",
+        "artist": "Suman Sirdhar",
+        "Duration": "1min 27s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 14
+      }  
+      ,
+      {
+        "name": "Prem jawan ",
+        "songUrl": "https://cdn.gro.care/2789075caf2a_1683648946328.mp4",
+        "songposterurl": "https://imgs.search.brave.com/EJ4n56EKTW9YoKXUPFqi9ZlZEVrfc75m6_p775NLGlk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE0/OTk0MTU0NzkxMjQt/NDNjMzI0MzNhNjIw/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4TVRGOGZH/MTFjMmxqZkdWdWZE/QjhmREI4Zkh3dw.jpeg",
+        "artist": "Suman Sirdhar",
+        "Duration": "1min 27s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 15
+      }
+      ,
+
+      {
+        "name": "I Love You",
+        "songUrl": "https://cdn.gro.care/2789075caf2a_1683648946328.mp4",
+        "songposterurl": "https://imgs.search.brave.com/KRu86j0yiXzS9QSJryN3hKacYIHwEzct744MilK9_gw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzQ1MDU5NjE3L3Iv/aWwvY2VkYjNlLzUy/ODMzODIyMjkvaWxf/NjAweDYwMC41Mjgz/MzgyMjI5X25lNWcu/anBn",
+        "artist": "Suman Sirdhar",
+        "Duration": "1min 27s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 16
+      }
+      ,
+      {
+        "name": "Rock and roll",
+        "songUrl": "https://cdn.gro.care/755d5af44c54_1683463531570.mp4",
+        "songposterurl": "https://imgs.search.brave.com/SU8pDHgerZU_isKe4kD8YjBZI07ApnK9Lgd2gGR2fXg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/aW5kaWFmb3J1bXMu/Y29tL21lZGlhLzcy/MHgwLzM4LzExMzUt/YXJpaml0LXNpbmdo/LXBlcmZvcm1zLW9u/LWFhai1raS1yYWF0/LWhhaS16aW5kYWdp/LmpwZw",
+        "artist": "Shasha",
+        "Duration": "18 s",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 17
+      },
+      {
+        "name": "I miss you",
+        "songUrl": "https://cdn.gro.care/3186578a3875_1683797695812.mp4",
+        "songposterurl": "https://imgs.search.brave.com/kIosHlYLs6pBHiMl2xHNREFfboHWen1_QrbQB40VGX4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4z/LmNhcmVlcmFkZGlj/dC5jb20vdXBsb2Fk/cy9hcnRpY2xlLzYx/MDkyLzItbWFkb25u/YS5qcGc",
+        "artist": "Shasha",
+        "Duration": "11 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 18
+      },
+      {
+        "name": "Sitam",
+        "songUrl": "https://cdn.gro.care/f2995d1631ae_1683531568180.mp4",
+        "songposterurl": "https://imgs.search.brave.com/rSL_7h8OtEjAp2l2oMyho6iGkiQ6m5h3L67xdViwCVc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC8yLzIvZC80/MzQyOTIuanBn",
+        "artist": "Suman Sirdhar",
+        "Duration": "26 s",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 19
+      },
+      {
+        "name": "Jhoothi",
+        "songUrl": "https://cdn.gro.care/edfdce5bbf61_1684049850831.mp4",
+        "songposterurl": "https://imgs.search.brave.com/AwDeVnPQ-0IWeocm3SxCYbeYftblXv-HWvJ-V6FJvmw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzYxLzE4LzQy/LzM2MF9GXzYxMTg0/MjA3X1lPZjZXd0tW/MUc1SHNVaVhLYUZx/T01vY1ltR2NIbmpn/LmpwZw",
+        "artist": "Mohan",
+        "Duration": "9 sec",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 20
+      },
+      {
+        "name": "Kajra safed",
+        "songUrl": "https://cdn.gro.care/7f7eb3b550dd_1683814866642.mp4",
+        "songposterurl": "https://imgs.search.brave.com/7FRBtX17OpZdiqqIe8M-8KDqditOP9-LbgN8FipH990/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDIzNzM4/MjQuanBn",
+        "artist": "Shreya Ghoshal",
+        "Duration": "25 sec",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 21
+      },
+      {
+        "name": "Feeling",
+        "songUrl": "https://cdn.gro.care/01b4e964f11c_1683525057732.mp4",
+        "songposterurl": "https://imgs.search.brave.com/N0Opm5gliWedvdEb17lk1tyOvxSOM5Md132h84hXwsQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI4ODgx/MjYuanBn",
+        "artist": "Salena Gomez",
+        "Duration": "14 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 22
+      },
+      {
+        "name": "Dekhoon",
+        "songUrl": "https://cdn.gro.care/045e95f617aa_1683612715343.mp4",
+        "songposterurl": "https://imgs.search.brave.com/OZiO9o_Np-neVwStp9nZ84umiSRUwwBhKgQNpLfmAAc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZm9yZnVu/LmNvbS9mZXRjaC9i/Mi9iMmU4ZDVkZjg5/MGY5YWRlMjBhY2Jh/NTdmNjEyMDU4Yy5q/cGVn",
+        "artist": "Shasha",
+        "Duration": "24 s",
+        "language": "Hindi",
+        "category": "Classic",
+        "id": 23
+      },
+      {
+        "name": "Muskan Slow",
+        "songUrl": "https://cdn.gro.care/25535f3735ac_1683610022644.mp4",
+        "songposterurl": "https://imgs.search.brave.com/OZiO9o_Np-neVwStp9nZ84umiSRUwwBhKgQNpLfmAAc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZm9yZnVu/LmNvbS9mZXRjaC9i/Mi9iMmU4ZDVkZjg5/MGY5YWRlMjBhY2Jh/NTdmNjEyMDU4Yy5q/cGVn",
+        "artist": "Neeti Mohan",
+        "Duration": "14 s",
+        "language": "Hindi",
+        "category": "Sad",
+        "id": 24
+      },
+      {
+        "name": "Jhumnka giera re Bazaar",
+        "songUrl": "https://cdn.gro.care/12f5243a35bd_1683383740208.mp4",
+        "songposterurl": "https://imgs.search.brave.com/dnPyPFTvG8DJL2iY7yFUdJS5k-jxL9urnYdKrJN5r40/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI4ODgw/MzQuanBn",
+        "artist": "Neeti Mohan",
+        "Duration": "14 s",
+        "language": "Hindi",
+        "category": "Classic",
+        "id": 25
+      }
+,
+
+      {
+        "name": "Love me",
+        "songUrl": "https://cdn.gro.care/83867e68c231_1683358560704.mp4",
+        "songposterurl": "https://imgs.search.brave.com/1AvkTZ3vHBzk7O86KHdWajHuW3JTrZFVFg6Rqt5nOOA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNS8x/MS8yMi8xOS8wNC9j/cm93ZC0xMDU2NzY0/XzY0MC5qcGc",
+        "artist": "Salena Gomez",
+        "Duration": "58 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 26
+      }
+      ,
+
+      {
+        "name": "Sajra savera ",
+        "songUrl": "https://cdn.gro.care/2dc62ba73aaf_1683610079533.mp4",
+        "songposterurl": "https://imgs.search.brave.com/oLSKJVQUnpGvkVsIvEnFt14eFHjHRnXe0jysW1t4Tyc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZm9yZnVu/LmNvbS9mZXRjaC82/NS82NWU3NmNhNWU5/Y2U4ZmZiNDFiYWQ4/NGM2ZWViYTdiYy5q/cGVn",
+        "artist": "Shreya Ghoshal",
+        "Duration": "15 s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 27
+      },
+
+      {
+        "name": "baraily new version ",
+        "songUrl": "https://cdn.gro.care/2dc62ba73aaf_1683610079533.mp4",
+        "songposterurl": "https://imgs.search.brave.com/3aGvjcEAZv6EbGtw0RkC_akEYGgOPaJmACptZwGTqzo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC9hVjlnYXNN/LmpwZw",
+        "artist": "Jubin Nautiyal",
+        "Duration": "23 s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 28
+      }
+      ,
+
+      {
+        "name": "Mere mehboob",
+        "songUrl": "https://cdn.gro.care/2789075caf2a_1683648946328.mp4",
+        "songposterurl": "https://imgs.search.brave.com/3aGvjcEAZv6EbGtw0RkC_akEYGgOPaJmACptZwGTqzo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC9hVjlnYXNN/LmpwZw",
+        "artist": "Suman Sirdhar",
+        "Duration": "1min 27s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 29
+      }  
+      ,
+      {
+        "name": "Prem jawan ",
+        "songUrl": "https://cdn.gro.care/2789075caf2a_1683648946328.mp4",
+        "songposterurl": "https://imgs.search.brave.com/ib_i7uIgOa72xwWK4FAq6NzpTAaNi7Tk95U7-xtZy8c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI4ODgx/NzUuanBn",
+        "artist": "Suman Sirdhar",
+        "Duration": "1min 27s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 30
+      }
+      ,
+
+      {
+        "name": "I Love You",
+        "songUrl": "https://cdn.gro.care/2789075caf2a_1683648946328.mp4",
+        "songposterurl": "https://imgs.search.brave.com/KRu86j0yiXzS9QSJryN3hKacYIHwEzct744MilK9_gw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzQ1MDU5NjE3L3Iv/aWwvY2VkYjNlLzUy/ODMzODIyMjkvaWxf/NjAweDYwMC41Mjgz/MzgyMjI5X25lNWcu/anBn",
+        "artist": "Suman Sirdhar",
+        "Duration": "1min 27s",
+        "language": "Hindi",
+        "category": "Romantic",
+        "id": 31
+      }
+      ,
+      {
+        "name": "Hate oor love",
+        "songUrl": "https://cdn.gro.care/755d5af44c54_1683463531570.mp4",
+        "songposterurl": "https://imgs.search.brave.com/R40B9HaycbmELIPrgl9-PZss1wFkRiGAA-huL127ZFc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/MzIzNDIzNDIyNjct/NzdlOGRiMjYyZWJj/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4T0h4OFky/eGhjM05wWTJGc0pU/SXdiWFZ6YVdOOFpX/NThNSHg4TUh4OGZE/QT0.jpeg",
+        "artist": "Shasha",
+        "Duration": "18 s",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 32
+      },
+      {
+        "name": "Missing",
+        "songUrl": "https://cdn.gro.care/3186578a3875_1683797695812.mp4",
+        "songposterurl": "https://imgs.search.brave.com/Z444YWz39SKwy1dsLhyehQwrEbS6cV0pduN4H2Sp73c/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/cm9wLWhlYWQtZWxl/Y3RyaWMtZ3VpdGFy/XzIzLTIxNDc3ODE3/NzYuanBnP3NpemU9/NjI2JmV4dD1qcGc",
+        "artist": "Shasha",
+        "Duration": "11 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 33
+      },
+      {
+        "name": "Sitam re",
+        "songUrl": "https://cdn.gro.care/f2995d1631ae_1683531568180.mp4",
+        "songposterurl": "https://imgs.search.brave.com/dPQzfxBibjfOhNQtjc0qrAExV43QVLLZGIpkM3S97tU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE0/NTk3NDk0MTExNzUt/MDRiZjUyOTJjZWVh/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4TVRSOGZH/MTFjMmxqZkdWdWZE/QjhmREI4Zkh3dw.jpeg",
+        "artist": "Suman Sirdhar",
+        "Duration": "26 s",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 34
+      },
+      {
+        "name": "Jhoothi tu makkar",
+        "songUrl": "https://cdn.gro.care/edfdce5bbf61_1684049850831.mp4",
+        "songposterurl": "https://imgs.search.brave.com/L9wkMNbiiDmdYnwDnUrU60yG-PEWAD8Hlo1ccCG4fI8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9o/ZWFkLW5lY2stZWxl/Y3RyaWMtZ3VpdGFy/XzIzLTIxNDc3ODE3/ODEuanBnP3NpemU9/NjI2JmV4dD1qcGc",
+        "artist": "Mohan",
+        "Duration": "9 sec",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 35
+      },
+      {
+        "name": "Kajra safed",
+        "songUrl": "https://cdn.gro.care/7f7eb3b550dd_1683814866642.mp4",
+        "songposterurl": "https://imgs.search.brave.com/ZurmucnIykulucOGh6q5VhHSvio4xnIZZyukwlRhpIQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDYyNzI1/ODYuanBn",
+        "Duration": "25 sec",
+        "language": "Hindi",
+        "category": "Pop",
+        "id": 36
+      },
+      {
+        "name": "No hard Feeling",
+        "songUrl": "https://cdn.gro.care/01b4e964f11c_1683525057732.mp4",
+        "songposterurl": "https://imgs.search.brave.com/pOQh8PxxH7de_pB5ZBiWbm1kx7_FO6wCq1HLoGlFNLI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDYyNzI1/ODUuanBn",
+        "artist": "Salena Gomez",
+        "Duration": "14 s",
+        "language": "English",
+        "category": "Romantic",
+        "id": 37
+      },
+      {
+        "name": "Tughe dekhun",
+        "songUrl": "https://cdn.gro.care/045e95f617aa_1683612715343.mp4",
+        "songposterurl": "https://imgs.search.brave.com/73DvwP4JKjDqhp0fj4gq9D3wyPvFc59Wl6BpM9l0E6s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9ibGFjay1oZWFk/cGhvbmVzLXdpdGgt/bmVvbi1tdXNpYy1u/b3RhdGlvbl85MTY4/NjAtNTAyMy5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw",
+        "artist": "Shasha",
+        "Duration": "24 s",
+        "language": "Hindi",
+        "category": "Classic",
+        "id": 38
+      },
+      {
+        "name": "Muskan Slow",
+        "songUrl": "https://cdn.gro.care/25535f3735ac_1683610022644.mp4",
+        "songposterurl": "https://imgs.search.brave.com/OZiO9o_Np-neVwStp9nZ84umiSRUwwBhKgQNpLfmAAc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZm9yZnVu/LmNvbS9mZXRjaC9i/Mi9iMmU4ZDVkZjg5/MGY5YWRlMjBhY2Jh/NTdmNjEyMDU4Yy5q/cGVn",
+        "artist": "Neeti Mohan",
+        "Duration": "14 s",
+        "language": "Hindi",
+        "category": "Sad",
+        "id": 39
+      },
+      {
+        "name": "Rinkiya ke papa",
+        "songUrl": "https://cdn.gro.care/12f5243a35bd_1683383740208.mp4",
+        "songposterurl": "https://imgs.search.brave.com/dnPyPFTvG8DJL2iY7yFUdJS5k-jxL9urnYdKrJN5r40/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI4ODgw/MzQuanBn",
+        "artist": "Neeti Mohan",
+        "Duration": "14 s",
+        "language": "Hindi",
+        "category": "Classic",
+        "id": 40
       }
     ],
     "playlist": [
