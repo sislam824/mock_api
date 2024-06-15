@@ -5,7 +5,40 @@
         "email": "s.islam20000@gmail.com",
         "password": "1234",
         "gender": "Male",
+        "mobile":"9070737570",
         "id": 1
+      },
+      {
+        "username": "Modi ji",
+        "email": "pm4u@mail.com",
+        "password": "1234",
+        "gender": "Male",
+        "mobile":"9073920404",
+        "id": 2
+      },
+      {
+        "username": "Ms Dhoni",
+        "email": "Ms@gmail.com",
+        "password": "1234",
+        "gender": "Male",
+        "mobile":"9070827011",
+        "id": 3
+      },
+      {
+        "username": "Virat Kohli",
+        "email": "V18@gmail.com",
+        "password": "1234",
+        "gender": "Male",
+        "mobile":"9077820019",
+        "id": 4
+      },
+      {
+        "username": "Rohit Sharma",
+        "email": "R45@gmail.com",
+        "password": "1234",
+        "gender": "Male",
+        "mobile":"9077854427",
+        "id": 5
       }
     ],
 
